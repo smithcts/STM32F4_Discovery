@@ -1,21 +1,21 @@
 Archive member included to satisfy reference by file (symbol)
 
-c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-exit.o)
-                              c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
-c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
-                              c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-exit.o) (_global_impure_ptr)
-c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-init.o)
-                              c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
-c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
-                              c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
-c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__call_atexit.o)
-                              c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-exit.o) (__call_exitprocs)
-c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atexit.o)
-                              c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__call_atexit.o) (atexit)
-c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-fini.o)
-                              c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
-c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__atexit.o)
-                              c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atexit.o) (__register_exitproc)
+/home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+                              /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+/home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+                              /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+                              /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+/home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+                              /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+/home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+                              /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+                              /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+                              /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+                              /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o) (__register_exitproc)
 
 Allocating common symbols
 Common symbol       size              file
@@ -31,17 +31,17 @@ hAudioInI2s         0x44              Utilities/STM32F4-Discovery/stm32f4_discov
 
 Discarded input sections
 
- .text          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
- .data          0x00000000        0x4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
- .text          0x00000000       0x74 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
- .ARM.extab     0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
- .ARM.exidx     0x00000000        0x8 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .text          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+ .text          0x00000000       0x74 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
  .ARM.attributes
-                0x00000000       0x20 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+                0x00000000       0x20 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
  .group         0x00000000        0x8 HAL_Driver/Src/stm32f4xx_hal.o
  .group         0x00000000        0x8 HAL_Driver/Src/stm32f4xx_hal.o
  .group         0x00000000        0x8 HAL_Driver/Src/stm32f4xx_hal.o
@@ -407,8 +407,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_adc.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_adc.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_adc.o
- .debug_line    0x00000000      0xe0e HAL_Driver/Src/stm32f4xx_hal_adc.o
- .debug_str     0x00000000    0xa4359 HAL_Driver/Src/stm32f4xx_hal_adc.o
+ .debug_line    0x00000000      0xfb6 HAL_Driver/Src/stm32f4xx_hal_adc.o
+ .debug_str     0x00000000    0xa4386 HAL_Driver/Src/stm32f4xx_hal_adc.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_adc.o
  .debug_frame   0x00000000      0x400 HAL_Driver/Src/stm32f4xx_hal_adc.o
  .ARM.attributes
@@ -630,8 +630,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_adc_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_adc_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_adc_ex.o
- .debug_line    0x00000000      0xce5 HAL_Driver/Src/stm32f4xx_hal_adc_ex.o
- .debug_str     0x00000000    0xa437f HAL_Driver/Src/stm32f4xx_hal_adc_ex.o
+ .debug_line    0x00000000      0xe8d HAL_Driver/Src/stm32f4xx_hal_adc_ex.o
+ .debug_str     0x00000000    0xa43ac HAL_Driver/Src/stm32f4xx_hal_adc_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_adc_ex.o
  .debug_frame   0x00000000      0x254 HAL_Driver/Src/stm32f4xx_hal_adc_ex.o
  .ARM.attributes
@@ -861,8 +861,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_can.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_can.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_can.o
- .debug_line    0x00000000      0xe15 HAL_Driver/Src/stm32f4xx_hal_can.o
- .debug_str     0x00000000    0xa4123 HAL_Driver/Src/stm32f4xx_hal_can.o
+ .debug_line    0x00000000      0xfbd HAL_Driver/Src/stm32f4xx_hal_can.o
+ .debug_str     0x00000000    0xa4150 HAL_Driver/Src/stm32f4xx_hal_can.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_can.o
  .debug_frame   0x00000000      0x2f8 HAL_Driver/Src/stm32f4xx_hal_can.o
  .ARM.attributes
@@ -1053,8 +1053,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_cec.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_cec.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_cec.o
- .debug_line    0x00000000      0x9eb HAL_Driver/Src/stm32f4xx_hal_cec.o
- .debug_str     0x00000000    0xa3bad HAL_Driver/Src/stm32f4xx_hal_cec.o
+ .debug_line    0x00000000      0xb93 HAL_Driver/Src/stm32f4xx_hal_cec.o
+ .debug_str     0x00000000    0xa3bda HAL_Driver/Src/stm32f4xx_hal_cec.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_cec.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_cec.o
@@ -1484,8 +1484,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_crc.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_crc.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_crc.o
- .debug_line    0x00000000      0xacf HAL_Driver/Src/stm32f4xx_hal_crc.o
- .debug_str     0x00000000    0xa3d9b HAL_Driver/Src/stm32f4xx_hal_crc.o
+ .debug_line    0x00000000      0xc77 HAL_Driver/Src/stm32f4xx_hal_crc.o
+ .debug_str     0x00000000    0xa3dc8 HAL_Driver/Src/stm32f4xx_hal_crc.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_crc.o
  .debug_frame   0x00000000      0x120 HAL_Driver/Src/stm32f4xx_hal_crc.o
  .ARM.attributes
@@ -1676,8 +1676,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_cryp.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_cryp.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_cryp.o
- .debug_line    0x00000000      0x9ec HAL_Driver/Src/stm32f4xx_hal_cryp.o
- .debug_str     0x00000000    0xa3bae HAL_Driver/Src/stm32f4xx_hal_cryp.o
+ .debug_line    0x00000000      0xb94 HAL_Driver/Src/stm32f4xx_hal_cryp.o
+ .debug_str     0x00000000    0xa3bdb HAL_Driver/Src/stm32f4xx_hal_cryp.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_cryp.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_cryp.o
@@ -1867,8 +1867,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_cryp_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_cryp_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_cryp_ex.o
- .debug_line    0x00000000      0x9ef HAL_Driver/Src/stm32f4xx_hal_cryp_ex.o
- .debug_str     0x00000000    0xa3bb1 HAL_Driver/Src/stm32f4xx_hal_cryp_ex.o
+ .debug_line    0x00000000      0xb97 HAL_Driver/Src/stm32f4xx_hal_cryp_ex.o
+ .debug_str     0x00000000    0xa3bde HAL_Driver/Src/stm32f4xx_hal_cryp_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_cryp_ex.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_cryp_ex.o
@@ -2101,8 +2101,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_dac.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_dac.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_dac.o
- .debug_line    0x00000000      0xc44 HAL_Driver/Src/stm32f4xx_hal_dac.o
- .debug_str     0x00000000    0xa41ce HAL_Driver/Src/stm32f4xx_hal_dac.o
+ .debug_line    0x00000000      0xdec HAL_Driver/Src/stm32f4xx_hal_dac.o
+ .debug_str     0x00000000    0xa41fb HAL_Driver/Src/stm32f4xx_hal_dac.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_dac.o
  .debug_frame   0x00000000      0x338 HAL_Driver/Src/stm32f4xx_hal_dac.o
  .ARM.attributes
@@ -2316,8 +2316,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_dac_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_dac_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_dac_ex.o
- .debug_line    0x00000000      0xb0c HAL_Driver/Src/stm32f4xx_hal_dac_ex.o
- .debug_str     0x00000000    0xa40fe HAL_Driver/Src/stm32f4xx_hal_dac_ex.o
+ .debug_line    0x00000000      0xcb4 HAL_Driver/Src/stm32f4xx_hal_dac_ex.o
+ .debug_str     0x00000000    0xa412b HAL_Driver/Src/stm32f4xx_hal_dac_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_dac_ex.o
  .debug_frame   0x00000000      0x1bc HAL_Driver/Src/stm32f4xx_hal_dac_ex.o
  .ARM.attributes
@@ -2545,8 +2545,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_dcmi.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_dcmi.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_dcmi.o
- .debug_line    0x00000000      0xc58 HAL_Driver/Src/stm32f4xx_hal_dcmi.o
- .debug_str     0x00000000    0xa425b HAL_Driver/Src/stm32f4xx_hal_dcmi.o
+ .debug_line    0x00000000      0xe00 HAL_Driver/Src/stm32f4xx_hal_dcmi.o
+ .debug_str     0x00000000    0xa4288 HAL_Driver/Src/stm32f4xx_hal_dcmi.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_dcmi.o
  .debug_frame   0x00000000      0x2c8 HAL_Driver/Src/stm32f4xx_hal_dcmi.o
  .ARM.attributes
@@ -2740,8 +2740,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.o
- .debug_line    0x00000000      0xa21 HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.o
- .debug_str     0x00000000    0xa408a HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.o
+ .debug_line    0x00000000      0xbc9 HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.o
+ .debug_str     0x00000000    0xa40b7 HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.o
  .debug_frame   0x00000000       0x34 HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.o
  .ARM.attributes
@@ -2956,8 +2956,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_dma.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_dma.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_dma.o
- .debug_line    0x00000000      0xbdc HAL_Driver/Src/stm32f4xx_hal_dma.o
- .debug_str     0x00000000    0xa406b HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .debug_line    0x00000000      0xd84 HAL_Driver/Src/stm32f4xx_hal_dma.o
+ .debug_str     0x00000000    0xa4098 HAL_Driver/Src/stm32f4xx_hal_dma.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_dma.o
  .debug_frame   0x00000000      0x1b0 HAL_Driver/Src/stm32f4xx_hal_dma.o
  .ARM.attributes
@@ -3148,8 +3148,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_dma2d.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_dma2d.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_dma2d.o
- .debug_line    0x00000000      0x9ed HAL_Driver/Src/stm32f4xx_hal_dma2d.o
- .debug_str     0x00000000    0xa3baf HAL_Driver/Src/stm32f4xx_hal_dma2d.o
+ .debug_line    0x00000000      0xb95 HAL_Driver/Src/stm32f4xx_hal_dma2d.o
+ .debug_str     0x00000000    0xa3bdc HAL_Driver/Src/stm32f4xx_hal_dma2d.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_dma2d.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_dma2d.o
@@ -3348,8 +3348,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
- .debug_line    0x00000000      0xa7a HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
- .debug_str     0x00000000    0xa3f7e HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
+ .debug_line    0x00000000      0xc22 HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
+ .debug_str     0x00000000    0xa3fab HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
  .debug_frame   0x00000000       0xa8 HAL_Driver/Src/stm32f4xx_hal_dma_ex.o
  .ARM.attributes
@@ -3540,8 +3540,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_dsi.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_dsi.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_dsi.o
- .debug_line    0x00000000      0x9eb HAL_Driver/Src/stm32f4xx_hal_dsi.o
- .debug_str     0x00000000    0xa3bad HAL_Driver/Src/stm32f4xx_hal_dsi.o
+ .debug_line    0x00000000      0xb93 HAL_Driver/Src/stm32f4xx_hal_dsi.o
+ .debug_str     0x00000000    0xa3bda HAL_Driver/Src/stm32f4xx_hal_dsi.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_dsi.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_dsi.o
@@ -3794,8 +3794,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_eth.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_eth.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_eth.o
- .debug_line    0x00000000     0x10bc HAL_Driver/Src/stm32f4xx_hal_eth.o
- .debug_str     0x00000000    0xa492b HAL_Driver/Src/stm32f4xx_hal_eth.o
+ .debug_line    0x00000000     0x1264 HAL_Driver/Src/stm32f4xx_hal_eth.o
+ .debug_str     0x00000000    0xa4958 HAL_Driver/Src/stm32f4xx_hal_eth.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_eth.o
  .debug_frame   0x00000000      0x4b4 HAL_Driver/Src/stm32f4xx_hal_eth.o
  .ARM.attributes
@@ -4021,8 +4021,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_flash.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_flash.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_flash.o
- .debug_line    0x00000000      0xbce HAL_Driver/Src/stm32f4xx_hal_flash.o
- .debug_str     0x00000000    0xa3f37 HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .debug_line    0x00000000      0xd76 HAL_Driver/Src/stm32f4xx_hal_flash.o
+ .debug_str     0x00000000    0xa3f64 HAL_Driver/Src/stm32f4xx_hal_flash.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_flash.o
  .debug_frame   0x00000000      0x26c HAL_Driver/Src/stm32f4xx_hal_flash.o
  .ARM.attributes
@@ -4247,8 +4247,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
- .debug_line    0x00000000      0xbd5 HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
- .debug_str     0x00000000    0xa3fb7 HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .debug_line    0x00000000      0xd7d HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
+ .debug_str     0x00000000    0xa3fe4 HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
  .debug_frame   0x00000000      0x250 HAL_Driver/Src/stm32f4xx_hal_flash_ex.o
  .ARM.attributes
@@ -4439,8 +4439,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
- .debug_line    0x00000000      0x9f5 HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
- .debug_str     0x00000000    0xa3bb7 HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
+ .debug_line    0x00000000      0xb9d HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
+ .debug_str     0x00000000    0xa3be4 HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.o
@@ -4630,8 +4630,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_fmpi2c.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_fmpi2c.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_fmpi2c.o
- .debug_line    0x00000000      0x9ee HAL_Driver/Src/stm32f4xx_hal_fmpi2c.o
- .debug_str     0x00000000    0xa3bb0 HAL_Driver/Src/stm32f4xx_hal_fmpi2c.o
+ .debug_line    0x00000000      0xb96 HAL_Driver/Src/stm32f4xx_hal_fmpi2c.o
+ .debug_str     0x00000000    0xa3bdd HAL_Driver/Src/stm32f4xx_hal_fmpi2c.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_fmpi2c.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_fmpi2c.o
@@ -4821,8 +4821,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_fmpi2c_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_fmpi2c_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_fmpi2c_ex.o
- .debug_line    0x00000000      0x9f1 HAL_Driver/Src/stm32f4xx_hal_fmpi2c_ex.o
- .debug_str     0x00000000    0xa3bb3 HAL_Driver/Src/stm32f4xx_hal_fmpi2c_ex.o
+ .debug_line    0x00000000      0xb99 HAL_Driver/Src/stm32f4xx_hal_fmpi2c_ex.o
+ .debug_str     0x00000000    0xa3be0 HAL_Driver/Src/stm32f4xx_hal_fmpi2c_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_fmpi2c_ex.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_fmpi2c_ex.o
@@ -5205,8 +5205,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_hash.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_hash.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_hash.o
- .debug_line    0x00000000      0x9ec HAL_Driver/Src/stm32f4xx_hal_hash.o
- .debug_str     0x00000000    0xa3bae HAL_Driver/Src/stm32f4xx_hal_hash.o
+ .debug_line    0x00000000      0xb94 HAL_Driver/Src/stm32f4xx_hal_hash.o
+ .debug_str     0x00000000    0xa3bdb HAL_Driver/Src/stm32f4xx_hal_hash.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_hash.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_hash.o
@@ -5396,8 +5396,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_hash_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_hash_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_hash_ex.o
- .debug_line    0x00000000      0x9ef HAL_Driver/Src/stm32f4xx_hal_hash_ex.o
- .debug_str     0x00000000    0xa3bb1 HAL_Driver/Src/stm32f4xx_hal_hash_ex.o
+ .debug_line    0x00000000      0xb97 HAL_Driver/Src/stm32f4xx_hal_hash_ex.o
+ .debug_str     0x00000000    0xa3bde HAL_Driver/Src/stm32f4xx_hal_hash_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_hash_ex.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_hash_ex.o
@@ -5638,8 +5638,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_hcd.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_hcd.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_hcd.o
- .debug_line    0x00000000      0xe35 HAL_Driver/Src/stm32f4xx_hal_hcd.o
- .debug_str     0x00000000    0xa437d HAL_Driver/Src/stm32f4xx_hal_hcd.o
+ .debug_line    0x00000000      0xfdd HAL_Driver/Src/stm32f4xx_hal_hcd.o
+ .debug_str     0x00000000    0xa43aa HAL_Driver/Src/stm32f4xx_hal_hcd.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_hcd.o
  .debug_frame   0x00000000      0x3d4 HAL_Driver/Src/stm32f4xx_hal_hcd.o
  .ARM.attributes
@@ -5977,8 +5977,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_i2c.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_i2c.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_i2c.o
- .debug_line    0x00000000     0x1bc4 HAL_Driver/Src/stm32f4xx_hal_i2c.o
- .debug_str     0x00000000    0xa4b7b HAL_Driver/Src/stm32f4xx_hal_i2c.o
+ .debug_line    0x00000000     0x1d6c HAL_Driver/Src/stm32f4xx_hal_i2c.o
+ .debug_str     0x00000000    0xa4ba8 HAL_Driver/Src/stm32f4xx_hal_i2c.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_i2c.o
  .debug_frame   0x00000000      0xadc HAL_Driver/Src/stm32f4xx_hal_i2c.o
  .ARM.attributes
@@ -6169,8 +6169,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_i2c_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_i2c_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_i2c_ex.o
- .debug_line    0x00000000      0x9ee HAL_Driver/Src/stm32f4xx_hal_i2c_ex.o
- .debug_str     0x00000000    0xa3bb0 HAL_Driver/Src/stm32f4xx_hal_i2c_ex.o
+ .debug_line    0x00000000      0xb96 HAL_Driver/Src/stm32f4xx_hal_i2c_ex.o
+ .debug_str     0x00000000    0xa3bdd HAL_Driver/Src/stm32f4xx_hal_i2c_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_i2c_ex.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_i2c_ex.o
@@ -6415,8 +6415,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_i2s.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_i2s.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_i2s.o
- .debug_line    0x00000000      0xea8 HAL_Driver/Src/stm32f4xx_hal_i2s.o
- .debug_str     0x00000000    0xa42cf HAL_Driver/Src/stm32f4xx_hal_i2s.o
+ .debug_line    0x00000000     0x1050 HAL_Driver/Src/stm32f4xx_hal_i2s.o
+ .debug_str     0x00000000    0xa42fc HAL_Driver/Src/stm32f4xx_hal_i2s.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_i2s.o
  .debug_frame   0x00000000      0x410 HAL_Driver/Src/stm32f4xx_hal_i2s.o
  .ARM.attributes
@@ -6632,8 +6632,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_i2s_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_i2s_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_i2s_ex.o
- .debug_line    0x00000000     0x1389 HAL_Driver/Src/stm32f4xx_hal_i2s_ex.o
- .debug_str     0x00000000    0xa42e6 HAL_Driver/Src/stm32f4xx_hal_i2s_ex.o
+ .debug_line    0x00000000     0x1531 HAL_Driver/Src/stm32f4xx_hal_i2s_ex.o
+ .debug_str     0x00000000    0xa4313 HAL_Driver/Src/stm32f4xx_hal_i2s_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_i2s_ex.o
  .debug_frame   0x00000000      0x1e4 HAL_Driver/Src/stm32f4xx_hal_i2s_ex.o
  .ARM.attributes
@@ -6887,8 +6887,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_irda.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_irda.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_irda.o
- .debug_line    0x00000000      0xf00 HAL_Driver/Src/stm32f4xx_hal_irda.o
- .debug_str     0x00000000    0xa432b HAL_Driver/Src/stm32f4xx_hal_irda.o
+ .debug_line    0x00000000     0x10a8 HAL_Driver/Src/stm32f4xx_hal_irda.o
+ .debug_str     0x00000000    0xa4358 HAL_Driver/Src/stm32f4xx_hal_irda.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_irda.o
  .debug_frame   0x00000000      0x4ac HAL_Driver/Src/stm32f4xx_hal_irda.o
  .ARM.attributes
@@ -7090,8 +7090,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_iwdg.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_iwdg.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_iwdg.o
- .debug_line    0x00000000      0xaa2 HAL_Driver/Src/stm32f4xx_hal_iwdg.o
- .debug_str     0x00000000    0xa3d88 HAL_Driver/Src/stm32f4xx_hal_iwdg.o
+ .debug_line    0x00000000      0xc4a HAL_Driver/Src/stm32f4xx_hal_iwdg.o
+ .debug_str     0x00000000    0xa3db5 HAL_Driver/Src/stm32f4xx_hal_iwdg.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_iwdg.o
  .debug_frame   0x00000000       0xd0 HAL_Driver/Src/stm32f4xx_hal_iwdg.o
  .ARM.attributes
@@ -7282,8 +7282,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_lptim.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_lptim.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_lptim.o
- .debug_line    0x00000000      0x9ed HAL_Driver/Src/stm32f4xx_hal_lptim.o
- .debug_str     0x00000000    0xa3baf HAL_Driver/Src/stm32f4xx_hal_lptim.o
+ .debug_line    0x00000000      0xb95 HAL_Driver/Src/stm32f4xx_hal_lptim.o
+ .debug_str     0x00000000    0xa3bdc HAL_Driver/Src/stm32f4xx_hal_lptim.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_lptim.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_lptim.o
@@ -7473,8 +7473,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_ltdc.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_ltdc.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_ltdc.o
- .debug_line    0x00000000      0x9ec HAL_Driver/Src/stm32f4xx_hal_ltdc.o
- .debug_str     0x00000000    0xa3bae HAL_Driver/Src/stm32f4xx_hal_ltdc.o
+ .debug_line    0x00000000      0xb94 HAL_Driver/Src/stm32f4xx_hal_ltdc.o
+ .debug_str     0x00000000    0xa3bdb HAL_Driver/Src/stm32f4xx_hal_ltdc.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_ltdc.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_ltdc.o
@@ -7664,8 +7664,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.o
- .debug_line    0x00000000      0x9ef HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.o
- .debug_str     0x00000000    0xa3bb1 HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.o
+ .debug_line    0x00000000      0xb97 HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.o
+ .debug_str     0x00000000    0xa3bde HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_ltdc_ex.o
@@ -8081,8 +8081,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_nand.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_nand.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_nand.o
- .debug_line    0x00000000      0xdc1 HAL_Driver/Src/stm32f4xx_hal_nand.o
- .debug_str     0x00000000    0xa4154 HAL_Driver/Src/stm32f4xx_hal_nand.o
+ .debug_line    0x00000000      0xf69 HAL_Driver/Src/stm32f4xx_hal_nand.o
+ .debug_str     0x00000000    0xa4181 HAL_Driver/Src/stm32f4xx_hal_nand.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_nand.o
  .debug_frame   0x00000000      0x2e0 HAL_Driver/Src/stm32f4xx_hal_nand.o
  .ARM.attributes
@@ -8310,8 +8310,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_nor.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_nor.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_nor.o
- .debug_line    0x00000000      0xcf0 HAL_Driver/Src/stm32f4xx_hal_nor.o
- .debug_str     0x00000000    0xa4521 HAL_Driver/Src/stm32f4xx_hal_nor.o
+ .debug_line    0x00000000      0xe98 HAL_Driver/Src/stm32f4xx_hal_nor.o
+ .debug_str     0x00000000    0xa454e HAL_Driver/Src/stm32f4xx_hal_nor.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_nor.o
  .debug_frame   0x00000000      0x2cc HAL_Driver/Src/stm32f4xx_hal_nor.o
  .ARM.attributes
@@ -8531,8 +8531,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_pccard.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_pccard.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_pccard.o
- .debug_line    0x00000000      0xc61 HAL_Driver/Src/stm32f4xx_hal_pccard.o
- .debug_str     0x00000000    0xa40d3 HAL_Driver/Src/stm32f4xx_hal_pccard.o
+ .debug_line    0x00000000      0xe09 HAL_Driver/Src/stm32f4xx_hal_pccard.o
+ .debug_str     0x00000000    0xa4100 HAL_Driver/Src/stm32f4xx_hal_pccard.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_pccard.o
  .debug_frame   0x00000000      0x234 HAL_Driver/Src/stm32f4xx_hal_pccard.o
  .ARM.attributes
@@ -8790,8 +8790,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_pcd.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_pcd.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_pcd.o
- .debug_line    0x00000000      0xefd HAL_Driver/Src/stm32f4xx_hal_pcd.o
- .debug_str     0x00000000    0xa4419 HAL_Driver/Src/stm32f4xx_hal_pcd.o
+ .debug_line    0x00000000     0x10a5 HAL_Driver/Src/stm32f4xx_hal_pcd.o
+ .debug_str     0x00000000    0xa4446 HAL_Driver/Src/stm32f4xx_hal_pcd.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_pcd.o
  .debug_frame   0x00000000      0x508 HAL_Driver/Src/stm32f4xx_hal_pcd.o
  .ARM.attributes
@@ -8987,8 +8987,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_pcd_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_pcd_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_pcd_ex.o
- .debug_line    0x00000000      0xa2e HAL_Driver/Src/stm32f4xx_hal_pcd_ex.o
- .debug_str     0x00000000    0xa3f69 HAL_Driver/Src/stm32f4xx_hal_pcd_ex.o
+ .debug_line    0x00000000      0xbd6 HAL_Driver/Src/stm32f4xx_hal_pcd_ex.o
+ .debug_str     0x00000000    0xa3f96 HAL_Driver/Src/stm32f4xx_hal_pcd_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_pcd_ex.o
  .debug_frame   0x00000000       0x60 HAL_Driver/Src/stm32f4xx_hal_pcd_ex.o
  .ARM.attributes
@@ -9214,8 +9214,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_pwr.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_pwr.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_pwr.o
- .debug_line    0x00000000      0xb96 HAL_Driver/Src/stm32f4xx_hal_pwr.o
- .debug_str     0x00000000    0xa3ff4 HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .debug_line    0x00000000      0xd3e HAL_Driver/Src/stm32f4xx_hal_pwr.o
+ .debug_str     0x00000000    0xa4021 HAL_Driver/Src/stm32f4xx_hal_pwr.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_pwr.o
  .debug_frame   0x00000000      0x274 HAL_Driver/Src/stm32f4xx_hal_pwr.o
  .ARM.attributes
@@ -9419,8 +9419,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
- .debug_line    0x00000000      0xaa8 HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
- .debug_str     0x00000000    0xa3e79 HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .debug_line    0x00000000      0xc50 HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
+ .debug_str     0x00000000    0xa3ea6 HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
  .debug_frame   0x00000000       0xec HAL_Driver/Src/stm32f4xx_hal_pwr_ex.o
  .ARM.attributes
@@ -9611,8 +9611,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_qspi.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_qspi.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_qspi.o
- .debug_line    0x00000000      0x9ec HAL_Driver/Src/stm32f4xx_hal_qspi.o
- .debug_str     0x00000000    0xa3bae HAL_Driver/Src/stm32f4xx_hal_qspi.o
+ .debug_line    0x00000000      0xb94 HAL_Driver/Src/stm32f4xx_hal_qspi.o
+ .debug_str     0x00000000    0xa3bdb HAL_Driver/Src/stm32f4xx_hal_qspi.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_qspi.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_qspi.o
@@ -10006,8 +10006,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
- .debug_line    0x00000000      0xaa7 HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
- .debug_str     0x00000000    0xa3e21 HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .debug_line    0x00000000      0xc4f HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+ .debug_str     0x00000000    0xa3e4e HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
  .debug_frame   0x00000000       0x7c HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
  .ARM.attributes
@@ -10225,8 +10225,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_rng.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_rng.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_rng.o
- .debug_line    0x00000000      0xb62 HAL_Driver/Src/stm32f4xx_hal_rng.o
- .debug_str     0x00000000    0xa3e36 HAL_Driver/Src/stm32f4xx_hal_rng.o
+ .debug_line    0x00000000      0xd0a HAL_Driver/Src/stm32f4xx_hal_rng.o
+ .debug_str     0x00000000    0xa3e63 HAL_Driver/Src/stm32f4xx_hal_rng.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_rng.o
  .debug_frame   0x00000000      0x204 HAL_Driver/Src/stm32f4xx_hal_rng.o
  .ARM.attributes
@@ -10458,8 +10458,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_rtc.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_rtc.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_rtc.o
- .debug_line    0x00000000      0xd8f HAL_Driver/Src/stm32f4xx_hal_rtc.o
- .debug_str     0x00000000    0xa4102 HAL_Driver/Src/stm32f4xx_hal_rtc.o
+ .debug_line    0x00000000      0xf37 HAL_Driver/Src/stm32f4xx_hal_rtc.o
+ .debug_str     0x00000000    0xa412f HAL_Driver/Src/stm32f4xx_hal_rtc.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_rtc.o
  .debug_frame   0x00000000      0x308 HAL_Driver/Src/stm32f4xx_hal_rtc.o
  .ARM.attributes
@@ -10721,8 +10721,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_rtc_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_rtc_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_rtc_ex.o
- .debug_line    0x00000000     0x10c5 HAL_Driver/Src/stm32f4xx_hal_rtc_ex.o
- .debug_str     0x00000000    0xa4448 HAL_Driver/Src/stm32f4xx_hal_rtc_ex.o
+ .debug_line    0x00000000     0x126d HAL_Driver/Src/stm32f4xx_hal_rtc_ex.o
+ .debug_str     0x00000000    0xa4475 HAL_Driver/Src/stm32f4xx_hal_rtc_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_rtc_ex.o
  .debug_frame   0x00000000      0x544 HAL_Driver/Src/stm32f4xx_hal_rtc_ex.o
  .ARM.attributes
@@ -10913,8 +10913,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_sai.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_sai.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_sai.o
- .debug_line    0x00000000      0x9eb HAL_Driver/Src/stm32f4xx_hal_sai.o
- .debug_str     0x00000000    0xa3bad HAL_Driver/Src/stm32f4xx_hal_sai.o
+ .debug_line    0x00000000      0xb93 HAL_Driver/Src/stm32f4xx_hal_sai.o
+ .debug_str     0x00000000    0xa3bda HAL_Driver/Src/stm32f4xx_hal_sai.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_sai.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_sai.o
@@ -11104,8 +11104,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_sai_ex.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_sai_ex.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_sai_ex.o
- .debug_line    0x00000000      0x9ee HAL_Driver/Src/stm32f4xx_hal_sai_ex.o
- .debug_str     0x00000000    0xa3bb0 HAL_Driver/Src/stm32f4xx_hal_sai_ex.o
+ .debug_line    0x00000000      0xb96 HAL_Driver/Src/stm32f4xx_hal_sai_ex.o
+ .debug_str     0x00000000    0xa3bdd HAL_Driver/Src/stm32f4xx_hal_sai_ex.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_sai_ex.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_sai_ex.o
@@ -11386,8 +11386,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_sd.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_sd.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_sd.o
- .debug_line    0x00000000     0x13ea HAL_Driver/Src/stm32f4xx_hal_sd.o
- .debug_str     0x00000000    0xa5666 HAL_Driver/Src/stm32f4xx_hal_sd.o
+ .debug_line    0x00000000     0x1592 HAL_Driver/Src/stm32f4xx_hal_sd.o
+ .debug_str     0x00000000    0xa5693 HAL_Driver/Src/stm32f4xx_hal_sd.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_sd.o
  .debug_frame   0x00000000      0x6e4 HAL_Driver/Src/stm32f4xx_hal_sd.o
  .ARM.attributes
@@ -11578,8 +11578,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_sdram.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_sdram.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_sdram.o
- .debug_line    0x00000000      0x9ed HAL_Driver/Src/stm32f4xx_hal_sdram.o
- .debug_str     0x00000000    0xa3baf HAL_Driver/Src/stm32f4xx_hal_sdram.o
+ .debug_line    0x00000000      0xb95 HAL_Driver/Src/stm32f4xx_hal_sdram.o
+ .debug_str     0x00000000    0xa3bdc HAL_Driver/Src/stm32f4xx_hal_sdram.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_sdram.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_sdram.o
@@ -11818,8 +11818,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_smartcard.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_smartcard.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_smartcard.o
- .debug_line    0x00000000      0xe33 HAL_Driver/Src/stm32f4xx_hal_smartcard.o
- .debug_str     0x00000000    0xa4379 HAL_Driver/Src/stm32f4xx_hal_smartcard.o
+ .debug_line    0x00000000      0xfdb HAL_Driver/Src/stm32f4xx_hal_smartcard.o
+ .debug_str     0x00000000    0xa43a6 HAL_Driver/Src/stm32f4xx_hal_smartcard.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_smartcard.o
  .debug_frame   0x00000000      0x3a4 HAL_Driver/Src/stm32f4xx_hal_smartcard.o
  .ARM.attributes
@@ -12010,8 +12010,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_spdifrx.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_spdifrx.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_spdifrx.o
- .debug_line    0x00000000      0x9ef HAL_Driver/Src/stm32f4xx_hal_spdifrx.o
- .debug_str     0x00000000    0xa3bb1 HAL_Driver/Src/stm32f4xx_hal_spdifrx.o
+ .debug_line    0x00000000      0xb97 HAL_Driver/Src/stm32f4xx_hal_spdifrx.o
+ .debug_str     0x00000000    0xa3bde HAL_Driver/Src/stm32f4xx_hal_spdifrx.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_spdifrx.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_hal_spdifrx.o
@@ -12296,8 +12296,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_spi.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_spi.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_spi.o
- .debug_line    0x00000000     0x11a8 HAL_Driver/Src/stm32f4xx_hal_spi.o
- .debug_str     0x00000000    0xa44e2 HAL_Driver/Src/stm32f4xx_hal_spi.o
+ .debug_line    0x00000000     0x1350 HAL_Driver/Src/stm32f4xx_hal_spi.o
+ .debug_str     0x00000000    0xa450f HAL_Driver/Src/stm32f4xx_hal_spi.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_spi.o
  .debug_frame   0x00000000      0x6f4 HAL_Driver/Src/stm32f4xx_hal_spi.o
  .ARM.attributes
@@ -12523,8 +12523,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_sram.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_sram.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_sram.o
- .debug_line    0x00000000      0xd0e HAL_Driver/Src/stm32f4xx_hal_sram.o
- .debug_str     0x00000000    0xa42a7 HAL_Driver/Src/stm32f4xx_hal_sram.o
+ .debug_line    0x00000000      0xeb6 HAL_Driver/Src/stm32f4xx_hal_sram.o
+ .debug_str     0x00000000    0xa42d4 HAL_Driver/Src/stm32f4xx_hal_sram.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_sram.o
  .debug_frame   0x00000000      0x2a0 HAL_Driver/Src/stm32f4xx_hal_sram.o
  .ARM.attributes
@@ -13589,8 +13589,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_uart.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_uart.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_uart.o
- .debug_line    0x00000000     0x10b1 HAL_Driver/Src/stm32f4xx_hal_uart.o
- .debug_str     0x00000000    0xa441f HAL_Driver/Src/stm32f4xx_hal_uart.o
+ .debug_line    0x00000000     0x1259 HAL_Driver/Src/stm32f4xx_hal_uart.o
+ .debug_str     0x00000000    0xa444c HAL_Driver/Src/stm32f4xx_hal_uart.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_uart.o
  .debug_frame   0x00000000      0x5e4 HAL_Driver/Src/stm32f4xx_hal_uart.o
  .ARM.attributes
@@ -13854,8 +13854,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_usart.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_usart.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_usart.o
- .debug_line    0x00000000     0x110d HAL_Driver/Src/stm32f4xx_hal_usart.o
- .debug_str     0x00000000    0xa4408 HAL_Driver/Src/stm32f4xx_hal_usart.o
+ .debug_line    0x00000000     0x12b5 HAL_Driver/Src/stm32f4xx_hal_usart.o
+ .debug_str     0x00000000    0xa4435 HAL_Driver/Src/stm32f4xx_hal_usart.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_usart.o
  .debug_frame   0x00000000      0x56c HAL_Driver/Src/stm32f4xx_hal_usart.o
  .ARM.attributes
@@ -14067,8 +14067,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_hal_wwdg.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal_wwdg.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_hal_wwdg.o
- .debug_line    0x00000000      0xb20 HAL_Driver/Src/stm32f4xx_hal_wwdg.o
- .debug_str     0x00000000    0xa3dc3 HAL_Driver/Src/stm32f4xx_hal_wwdg.o
+ .debug_line    0x00000000      0xcc8 HAL_Driver/Src/stm32f4xx_hal_wwdg.o
+ .debug_str     0x00000000    0xa3df0 HAL_Driver/Src/stm32f4xx_hal_wwdg.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_hal_wwdg.o
  .debug_frame   0x00000000      0x194 HAL_Driver/Src/stm32f4xx_hal_wwdg.o
  .ARM.attributes
@@ -14259,8 +14259,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_ll_fmc.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_ll_fmc.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_ll_fmc.o
- .debug_line    0x00000000      0x9ea HAL_Driver/Src/stm32f4xx_ll_fmc.o
- .debug_str     0x00000000    0xa3bac HAL_Driver/Src/stm32f4xx_ll_fmc.o
+ .debug_line    0x00000000      0xb92 HAL_Driver/Src/stm32f4xx_ll_fmc.o
+ .debug_str     0x00000000    0xa3bd9 HAL_Driver/Src/stm32f4xx_ll_fmc.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_ll_fmc.o
  .ARM.attributes
                 0x00000000       0x39 HAL_Driver/Src/stm32f4xx_ll_fmc.o
@@ -14487,8 +14487,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_ll_fsmc.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_ll_fsmc.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_ll_fsmc.o
- .debug_line    0x00000000      0xc36 HAL_Driver/Src/stm32f4xx_ll_fsmc.o
- .debug_str     0x00000000    0xa40fb HAL_Driver/Src/stm32f4xx_ll_fsmc.o
+ .debug_line    0x00000000      0xdde HAL_Driver/Src/stm32f4xx_ll_fsmc.o
+ .debug_str     0x00000000    0xa4128 HAL_Driver/Src/stm32f4xx_ll_fsmc.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_ll_fsmc.o
  .debug_frame   0x00000000      0x2dc HAL_Driver/Src/stm32f4xx_ll_fsmc.o
  .ARM.attributes
@@ -14706,8 +14706,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_ll_sdmmc.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_ll_sdmmc.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_ll_sdmmc.o
- .debug_line    0x00000000      0xb09 HAL_Driver/Src/stm32f4xx_ll_sdmmc.o
- .debug_str     0x00000000    0xa3ec6 HAL_Driver/Src/stm32f4xx_ll_sdmmc.o
+ .debug_line    0x00000000      0xcb1 HAL_Driver/Src/stm32f4xx_ll_sdmmc.o
+ .debug_str     0x00000000    0xa3ef3 HAL_Driver/Src/stm32f4xx_ll_sdmmc.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_ll_sdmmc.o
  .debug_frame   0x00000000      0x21c HAL_Driver/Src/stm32f4xx_ll_sdmmc.o
  .ARM.attributes
@@ -14989,8 +14989,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x115 HAL_Driver/Src/stm32f4xx_ll_usb.o
  .debug_macro   0x00000000       0x6e HAL_Driver/Src/stm32f4xx_ll_usb.o
  .debug_macro   0x00000000      0x125 HAL_Driver/Src/stm32f4xx_ll_usb.o
- .debug_line    0x00000000     0x1041 HAL_Driver/Src/stm32f4xx_ll_usb.o
- .debug_str     0x00000000    0xa4583 HAL_Driver/Src/stm32f4xx_ll_usb.o
+ .debug_line    0x00000000     0x11e9 HAL_Driver/Src/stm32f4xx_ll_usb.o
+ .debug_str     0x00000000    0xa45b0 HAL_Driver/Src/stm32f4xx_ll_usb.o
  .comment       0x00000000       0x6f HAL_Driver/Src/stm32f4xx_ll_usb.o
  .debug_frame   0x00000000      0x718 HAL_Driver/Src/stm32f4xx_ll_usb.o
  .ARM.attributes
@@ -15046,8 +15046,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x1df Utilities/Components/cs43l22/cs43l22.o
  .debug_macro   0x00000000       0x10 Utilities/Components/cs43l22/cs43l22.o
  .debug_macro   0x00000000      0x191 Utilities/Components/cs43l22/cs43l22.o
- .debug_line    0x00000000      0x440 Utilities/Components/cs43l22/cs43l22.o
- .debug_str     0x00000000     0x3b94 Utilities/Components/cs43l22/cs43l22.o
+ .debug_line    0x00000000      0x534 Utilities/Components/cs43l22/cs43l22.o
+ .debug_str     0x00000000     0x3bc1 Utilities/Components/cs43l22/cs43l22.o
  .comment       0x00000000       0x6f Utilities/Components/cs43l22/cs43l22.o
  .debug_frame   0x00000000      0x1e4 Utilities/Components/cs43l22/cs43l22.o
  .ARM.attributes
@@ -15093,8 +15093,8 @@ Discarded input sections
  .debug_macro   0x00000000       0xfd Utilities/Components/exc7200/exc7200.o
  .debug_macro   0x00000000       0x22 Utilities/Components/exc7200/exc7200.o
  .debug_macro   0x00000000      0x1df Utilities/Components/exc7200/exc7200.o
- .debug_line    0x00000000      0x38f Utilities/Components/exc7200/exc7200.o
- .debug_str     0x00000000     0x334a Utilities/Components/exc7200/exc7200.o
+ .debug_line    0x00000000      0x483 Utilities/Components/exc7200/exc7200.o
+ .debug_str     0x00000000     0x3377 Utilities/Components/exc7200/exc7200.o
  .comment       0x00000000       0x6f Utilities/Components/exc7200/exc7200.o
  .debug_frame   0x00000000      0x194 Utilities/Components/exc7200/exc7200.o
  .ARM.attributes
@@ -15149,8 +15149,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/ft6x06/ft6x06.o
  .debug_macro   0x00000000      0x1df Utilities/Components/ft6x06/ft6x06.o
  .debug_macro   0x00000000      0x222 Utilities/Components/ft6x06/ft6x06.o
- .debug_line    0x00000000      0x3df Utilities/Components/ft6x06/ft6x06.o
- .debug_str     0x00000000     0x3cee Utilities/Components/ft6x06/ft6x06.o
+ .debug_line    0x00000000      0x4d3 Utilities/Components/ft6x06/ft6x06.o
+ .debug_str     0x00000000     0x3d1b Utilities/Components/ft6x06/ft6x06.o
  .comment       0x00000000       0x6f Utilities/Components/ft6x06/ft6x06.o
  .debug_frame   0x00000000      0x1d4 Utilities/Components/ft6x06/ft6x06.o
  .ARM.attributes
@@ -15210,8 +15210,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/ili9325/ili9325.o
  .debug_macro   0x00000000      0x1df Utilities/Components/ili9325/ili9325.o
  .debug_macro   0x00000000      0x2e8 Utilities/Components/ili9325/ili9325.o
- .debug_line    0x00000000      0x4b6 Utilities/Components/ili9325/ili9325.o
- .debug_str     0x00000000     0x3b9c Utilities/Components/ili9325/ili9325.o
+ .debug_line    0x00000000      0x5aa Utilities/Components/ili9325/ili9325.o
+ .debug_str     0x00000000     0x3bc9 Utilities/Components/ili9325/ili9325.o
  .comment       0x00000000       0x6f Utilities/Components/ili9325/ili9325.o
  .debug_frame   0x00000000      0x238 Utilities/Components/ili9325/ili9325.o
  .ARM.attributes
@@ -15257,8 +15257,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/ili9341/ili9341.o
  .debug_macro   0x00000000      0x1df Utilities/Components/ili9341/ili9341.o
  .debug_macro   0x00000000      0x26d Utilities/Components/ili9341/ili9341.o
- .debug_line    0x00000000      0x3eb Utilities/Components/ili9341/ili9341.o
- .debug_str     0x00000000     0x3a39 Utilities/Components/ili9341/ili9341.o
+ .debug_line    0x00000000      0x4df Utilities/Components/ili9341/ili9341.o
+ .debug_str     0x00000000     0x3a66 Utilities/Components/ili9341/ili9341.o
  .comment       0x00000000       0x6f Utilities/Components/ili9341/ili9341.o
  .debug_frame   0x00000000      0x12c Utilities/Components/ili9341/ili9341.o
  .ARM.attributes
@@ -15310,8 +15310,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/l3gd20/l3gd20.o
  .debug_macro   0x00000000      0x1df Utilities/Components/l3gd20/l3gd20.o
  .debug_macro   0x00000000      0x211 Utilities/Components/l3gd20/l3gd20.o
- .debug_line    0x00000000      0x41f Utilities/Components/l3gd20/l3gd20.o
- .debug_str     0x00000000     0x3e25 Utilities/Components/l3gd20/l3gd20.o
+ .debug_line    0x00000000      0x513 Utilities/Components/l3gd20/l3gd20.o
+ .debug_str     0x00000000     0x3e52 Utilities/Components/l3gd20/l3gd20.o
  .comment       0x00000000       0x6f Utilities/Components/l3gd20/l3gd20.o
  .debug_frame   0x00000000      0x1bc Utilities/Components/l3gd20/l3gd20.o
  .ARM.attributes
@@ -15363,8 +15363,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/lis302dl/lis302dl.o
  .debug_macro   0x00000000      0x1df Utilities/Components/lis302dl/lis302dl.o
  .debug_macro   0x00000000      0x1d1 Utilities/Components/lis302dl/lis302dl.o
- .debug_line    0x00000000      0x421 Utilities/Components/lis302dl/lis302dl.o
- .debug_str     0x00000000     0x3f28 Utilities/Components/lis302dl/lis302dl.o
+ .debug_line    0x00000000      0x515 Utilities/Components/lis302dl/lis302dl.o
+ .debug_str     0x00000000     0x3f55 Utilities/Components/lis302dl/lis302dl.o
  .comment       0x00000000       0x6f Utilities/Components/lis302dl/lis302dl.o
  .debug_frame   0x00000000      0x1bc Utilities/Components/lis302dl/lis302dl.o
  .ARM.attributes
@@ -15412,8 +15412,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/lis3dsh/lis3dsh.o
  .debug_macro   0x00000000      0x1df Utilities/Components/lis3dsh/lis3dsh.o
  .debug_macro   0x00000000      0x428 Utilities/Components/lis3dsh/lis3dsh.o
- .debug_line    0x00000000      0x400 Utilities/Components/lis3dsh/lis3dsh.o
- .debug_str     0x00000000     0x4656 Utilities/Components/lis3dsh/lis3dsh.o
+ .debug_line    0x00000000      0x4f4 Utilities/Components/lis3dsh/lis3dsh.o
+ .debug_str     0x00000000     0x4683 Utilities/Components/lis3dsh/lis3dsh.o
  .comment       0x00000000       0x6f Utilities/Components/lis3dsh/lis3dsh.o
  .debug_frame   0x00000000      0x174 Utilities/Components/lis3dsh/lis3dsh.o
  .ARM.attributes
@@ -15479,8 +15479,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/lsm303dlhc/lsm303dlhc.o
  .debug_macro   0x00000000      0x1df Utilities/Components/lsm303dlhc/lsm303dlhc.o
  .debug_macro   0x00000000      0x452 Utilities/Components/lsm303dlhc/lsm303dlhc.o
- .debug_line    0x00000000      0x4cb Utilities/Components/lsm303dlhc/lsm303dlhc.o
- .debug_str     0x00000000     0x4c89 Utilities/Components/lsm303dlhc/lsm303dlhc.o
+ .debug_line    0x00000000      0x5bf Utilities/Components/lsm303dlhc/lsm303dlhc.o
+ .debug_str     0x00000000     0x4cb6 Utilities/Components/lsm303dlhc/lsm303dlhc.o
  .comment       0x00000000       0x6f Utilities/Components/lsm303dlhc/lsm303dlhc.o
  .debug_frame   0x00000000      0x2b0 Utilities/Components/lsm303dlhc/lsm303dlhc.o
  .ARM.attributes
@@ -15618,8 +15618,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/mfxstm32l152/mfxstm32l152.o
  .debug_macro   0x00000000      0x1df Utilities/Components/mfxstm32l152/mfxstm32l152.o
  .debug_macro   0x00000000      0x4d0 Utilities/Components/mfxstm32l152/mfxstm32l152.o
- .debug_line    0x00000000      0x844 Utilities/Components/mfxstm32l152/mfxstm32l152.o
- .debug_str     0x00000000     0x5e54 Utilities/Components/mfxstm32l152/mfxstm32l152.o
+ .debug_line    0x00000000      0x938 Utilities/Components/mfxstm32l152/mfxstm32l152.o
+ .debug_str     0x00000000     0x5e81 Utilities/Components/mfxstm32l152/mfxstm32l152.o
  .comment       0x00000000       0x6f Utilities/Components/mfxstm32l152/mfxstm32l152.o
  .debug_frame   0x00000000      0x7e8 Utilities/Components/mfxstm32l152/mfxstm32l152.o
  .ARM.attributes
@@ -15652,8 +15652,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/otm8009a/otm8009a.o
  .debug_macro   0x00000000      0x1df Utilities/Components/otm8009a/otm8009a.o
  .debug_macro   0x00000000      0x172 Utilities/Components/otm8009a/otm8009a.o
- .debug_line    0x00000000      0x342 Utilities/Components/otm8009a/otm8009a.o
- .debug_str     0x00000000     0x3d7f Utilities/Components/otm8009a/otm8009a.o
+ .debug_line    0x00000000      0x436 Utilities/Components/otm8009a/otm8009a.o
+ .debug_str     0x00000000     0x3dac Utilities/Components/otm8009a/otm8009a.o
  .comment       0x00000000       0x6f Utilities/Components/otm8009a/otm8009a.o
  .debug_frame   0x00000000       0x60 Utilities/Components/otm8009a/otm8009a.o
  .ARM.attributes
@@ -15692,8 +15692,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x1df Utilities/Components/ov2640/ov2640.o
  .debug_macro   0x00000000       0xa0 Utilities/Components/ov2640/ov2640.o
  .debug_macro   0x00000000      0x28b Utilities/Components/ov2640/ov2640.o
- .debug_line    0x00000000      0x3e1 Utilities/Components/ov2640/ov2640.o
- .debug_str     0x00000000     0x3f95 Utilities/Components/ov2640/ov2640.o
+ .debug_line    0x00000000      0x4d5 Utilities/Components/ov2640/ov2640.o
+ .debug_str     0x00000000     0x3fc2 Utilities/Components/ov2640/ov2640.o
  .comment       0x00000000       0x6f Utilities/Components/ov2640/ov2640.o
  .debug_frame   0x00000000       0xa4 Utilities/Components/ov2640/ov2640.o
  .ARM.attributes
@@ -15732,8 +15732,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x1df Utilities/Components/s5k5cag/s5k5cag.o
  .debug_macro   0x00000000       0xa0 Utilities/Components/s5k5cag/s5k5cag.o
  .debug_macro   0x00000000       0x94 Utilities/Components/s5k5cag/s5k5cag.o
- .debug_line    0x00000000      0x42d Utilities/Components/s5k5cag/s5k5cag.o
- .debug_str     0x00000000     0x3a12 Utilities/Components/s5k5cag/s5k5cag.o
+ .debug_line    0x00000000      0x521 Utilities/Components/s5k5cag/s5k5cag.o
+ .debug_str     0x00000000     0x3a3f Utilities/Components/s5k5cag/s5k5cag.o
  .comment       0x00000000       0x6f Utilities/Components/s5k5cag/s5k5cag.o
  .debug_frame   0x00000000       0xa8 Utilities/Components/s5k5cag/s5k5cag.o
  .ARM.attributes
@@ -15785,8 +15785,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/st7735/st7735.o
  .debug_macro   0x00000000      0x1df Utilities/Components/st7735/st7735.o
  .debug_macro   0x00000000      0x1d4 Utilities/Components/st7735/st7735.o
- .debug_line    0x00000000      0x477 Utilities/Components/st7735/st7735.o
- .debug_str     0x00000000     0x3928 Utilities/Components/st7735/st7735.o
+ .debug_line    0x00000000      0x56b Utilities/Components/st7735/st7735.o
+ .debug_str     0x00000000     0x3955 Utilities/Components/st7735/st7735.o
  .comment       0x00000000       0x6f Utilities/Components/st7735/st7735.o
  .debug_frame   0x00000000      0x1c8 Utilities/Components/st7735/st7735.o
  .ARM.attributes
@@ -15852,8 +15852,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/stmpe1600/stmpe1600.o
  .debug_macro   0x00000000      0x1df Utilities/Components/stmpe1600/stmpe1600.o
  .debug_macro   0x00000000       0xce Utilities/Components/stmpe1600/stmpe1600.o
- .debug_line    0x00000000      0x4a1 Utilities/Components/stmpe1600/stmpe1600.o
- .debug_str     0x00000000     0x39d5 Utilities/Components/stmpe1600/stmpe1600.o
+ .debug_line    0x00000000      0x595 Utilities/Components/stmpe1600/stmpe1600.o
+ .debug_str     0x00000000     0x3a02 Utilities/Components/stmpe1600/stmpe1600.o
  .comment       0x00000000       0x6f Utilities/Components/stmpe1600/stmpe1600.o
  .debug_frame   0x00000000      0x2c4 Utilities/Components/stmpe1600/stmpe1600.o
  .ARM.attributes
@@ -15949,8 +15949,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/stmpe811/stmpe811.o
  .debug_macro   0x00000000      0x1df Utilities/Components/stmpe811/stmpe811.o
  .debug_macro   0x00000000      0x255 Utilities/Components/stmpe811/stmpe811.o
- .debug_line    0x00000000      0x5e5 Utilities/Components/stmpe811/stmpe811.o
- .debug_str     0x00000000     0x423e Utilities/Components/stmpe811/stmpe811.o
+ .debug_line    0x00000000      0x6d9 Utilities/Components/stmpe811/stmpe811.o
+ .debug_str     0x00000000     0x426b Utilities/Components/stmpe811/stmpe811.o
  .comment       0x00000000       0x6f Utilities/Components/stmpe811/stmpe811.o
  .debug_frame   0x00000000      0x4e0 Utilities/Components/stmpe811/stmpe811.o
  .ARM.attributes
@@ -15999,8 +15999,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 Utilities/Components/ts3510/ts3510.o
  .debug_macro   0x00000000      0x1df Utilities/Components/ts3510/ts3510.o
  .debug_macro   0x00000000       0x1c Utilities/Components/ts3510/ts3510.o
- .debug_line    0x00000000      0x3a4 Utilities/Components/ts3510/ts3510.o
- .debug_str     0x00000000     0x3390 Utilities/Components/ts3510/ts3510.o
+ .debug_line    0x00000000      0x498 Utilities/Components/ts3510/ts3510.o
+ .debug_str     0x00000000     0x33bd Utilities/Components/ts3510/ts3510.o
  .comment       0x00000000       0x6f Utilities/Components/ts3510/ts3510.o
  .debug_frame   0x00000000      0x194 Utilities/Components/ts3510/ts3510.o
  .ARM.attributes
@@ -16056,8 +16056,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x1df Utilities/Components/wm8994/wm8994.o
  .debug_macro   0x00000000       0x10 Utilities/Components/wm8994/wm8994.o
  .debug_macro   0x00000000       0xb8 Utilities/Components/wm8994/wm8994.o
- .debug_line    0x00000000      0x4e9 Utilities/Components/wm8994/wm8994.o
- .debug_str     0x00000000     0x385d Utilities/Components/wm8994/wm8994.o
+ .debug_line    0x00000000      0x5dd Utilities/Components/wm8994/wm8994.o
+ .debug_str     0x00000000     0x388a Utilities/Components/wm8994/wm8994.o
  .comment       0x00000000       0x6f Utilities/Components/wm8994/wm8994.o
  .debug_frame   0x00000000      0x1e8 Utilities/Components/wm8994/wm8994.o
  .ARM.attributes
@@ -16492,8 +16492,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x1e2 Utilities/STM32F4-Discovery/stm32f4_discovery_accelerometer.o
  .debug_macro   0x00000000      0x1d1 Utilities/STM32F4-Discovery/stm32f4_discovery_accelerometer.o
  .debug_macro   0x00000000      0x428 Utilities/STM32F4-Discovery/stm32f4_discovery_accelerometer.o
- .debug_line    0x00000000      0xbb4 Utilities/STM32F4-Discovery/stm32f4_discovery_accelerometer.o
- .debug_str     0x00000000    0xa6749 Utilities/STM32F4-Discovery/stm32f4_discovery_accelerometer.o
+ .debug_line    0x00000000      0xdb4 Utilities/STM32F4-Discovery/stm32f4_discovery_accelerometer.o
+ .debug_str     0x00000000    0xa6776 Utilities/STM32F4-Discovery/stm32f4_discovery_accelerometer.o
  .comment       0x00000000       0x6f Utilities/STM32F4-Discovery/stm32f4_discovery_accelerometer.o
  .debug_frame   0x00000000       0xd0 Utilities/STM32F4-Discovery/stm32f4_discovery_accelerometer.o
  .ARM.attributes
@@ -16762,8 +16762,8 @@ Discarded input sections
  .debug_macro   0x00000000      0x1e2 Utilities/STM32F4-Discovery/stm32f4_discovery_audio.o
  .debug_macro   0x00000000       0x10 Utilities/STM32F4-Discovery/stm32f4_discovery_audio.o
  .debug_macro   0x00000000      0x150 Utilities/STM32F4-Discovery/stm32f4_discovery_audio.o
- .debug_line    0x00000000      0xe65 Utilities/STM32F4-Discovery/stm32f4_discovery_audio.o
- .debug_str     0x00000000    0xa66be Utilities/STM32F4-Discovery/stm32f4_discovery_audio.o
+ .debug_line    0x00000000     0x1017 Utilities/STM32F4-Discovery/stm32f4_discovery_audio.o
+ .debug_str     0x00000000    0xa66eb Utilities/STM32F4-Discovery/stm32f4_discovery_audio.o
  .comment       0x00000000       0x6f Utilities/STM32F4-Discovery/stm32f4_discovery_audio.o
  .debug_frame   0x00000000      0x488 Utilities/STM32F4-Discovery/stm32f4_discovery_audio.o
  .ARM.attributes
@@ -17507,50 +17507,50 @@ Discarded input sections
  .text          0x00000000       0x14 startup/startup_stm32f407xx.o
  .data          0x00000000        0x0 startup/startup_stm32f407xx.o
  .bss           0x00000000        0x0 startup/startup_stm32f407xx.o
- .text          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-exit.o)
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-exit.o)
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-exit.o)
- .text.exit     0x00000000       0x20 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-exit.o)
- .debug_frame   0x00000000       0x28 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
  .ARM.attributes
-                0x00000000       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-exit.o)
- .text          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+                0x00000000       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
  .data._impure_ptr
-                0x00000000        0x4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
- .text          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-init.o)
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-init.o)
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-init.o)
- .text          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
- .text.memset   0x00000000       0x9c c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
- .debug_frame   0x00000000       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
+                0x00000000        0x4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
  .ARM.attributes
-                0x00000000       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-memset.o)
- .text          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__call_atexit.o)
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__call_atexit.o)
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__call_atexit.o)
+                0x00000000       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
  .text.__call_exitprocs
-                0x00000000       0xd8 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__call_atexit.o)
- .text          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atexit.o)
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atexit.o)
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atexit.o)
- .text          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-fini.o)
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-fini.o)
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-fini.o)
- .text          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__atexit.o)
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__atexit.o)
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__atexit.o)
- .text          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
- .eh_frame      0x00000000        0x4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
- .jcr           0x00000000        0x4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
- .text          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
- .data          0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
- .bss           0x00000000        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
+                0x00000000       0xd8 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
+ .eh_frame      0x00000000        0x4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
+ .jcr           0x00000000        0x4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
+ .text          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
+ .data          0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
+ .bss           0x00000000        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
 
 Memory Configuration
 
@@ -17562,9 +17562,9 @@ MEMORY_B1        0x60000000         0x00000000         xr
 
 Linker script and memory map
 
-LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
-LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
-LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
+LOAD /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+LOAD /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
 LOAD HAL_Driver/Src/stm32f4xx_hal.o
 LOAD HAL_Driver/Src/stm32f4xx_hal_adc.o
 LOAD HAL_Driver/Src/stm32f4xx_hal_adc_ex.o
@@ -17659,14 +17659,14 @@ LOAD src/stm32f4xx_hal_msp.o
 LOAD src/stm32f4xx_it.o
 LOAD src/system_stm32f4xx.o
 LOAD startup/startup_stm32f407xx.o
-LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libstdc++.a
-LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libm.a
+LOAD /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libstdc++.a
+LOAD /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a
 START GROUP
-LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu\libgcc.a
-LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a
+LOAD /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/libgcc.a
+LOAD /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
 END GROUP
-LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
-LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
+LOAD /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
+LOAD /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
                 0x20020000                _estack = 0x20020000
                 0x00000000                _Min_Heap_Size = 0x0
                 0x00000400                _Min_Stack_Size = 0x400
@@ -17681,7 +17681,7 @@ LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.2016
 .text           0x08000188     0x1fc0
                 0x08000188                . = ALIGN (0x4)
  *(.text)
- .text          0x08000188       0xa4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+ .text          0x08000188       0xa4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
  *(.text*)
  .text.HAL_Init
                 0x0800022c       0x38 HAL_Driver/Src/stm32f4xx_hal.o
@@ -17938,17 +17938,17 @@ LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.2016
                 0x08001fc8                DMA1_Stream3_IRQHandler
  *fill*         0x08001fca        0x2 
  .text.__libc_init_array
-                0x08001fcc       0x50 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-init.o)
+                0x08001fcc       0x50 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
                 0x08001fcc                __libc_init_array
  .text.startup.register_fini
-                0x0800201c       0x14 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__call_atexit.o)
- .text.atexit   0x08002030        0xc c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atexit.o)
+                0x0800201c       0x14 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08002030        0xc /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
                 0x08002030                atexit
  .text.__libc_fini_array
-                0x0800203c       0x28 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-fini.o)
+                0x0800203c       0x28 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
                 0x0800203c                __libc_fini_array
  .text.__register_exitproc
-                0x08002064       0xa4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__atexit.o)
+                0x08002064       0xa4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
                 0x08002064                __register_exitproc
  *(.rodata)
  .rodata        0x08002108       0x10 HAL_Driver/Src/stm32f4xx_hal_rcc.o
@@ -17960,25 +17960,25 @@ LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.2016
  *(.rodata*)
  *fill*         0x08002125        0x3 
  .rodata.str1.4
-                0x08002128        0x4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+                0x08002128        0x4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
                                   0x2 (size before relaxing)
  .rodata._global_impure_ptr
-                0x0800212c        0x4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+                0x0800212c        0x4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
                 0x0800212c                _global_impure_ptr
  *(.glue_7)
  .glue_7        0x08002130        0x0 linker stubs
  *(.glue_7t)
  .glue_7t       0x08002130        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x08002130        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+ .eh_frame      0x08002130        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
  *(.init)
- .init          0x08002130        0x4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
+ .init          0x08002130        0x4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
                 0x08002130                _init
- .init          0x08002134        0x8 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
+ .init          0x08002134        0x8 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
  *(.fini)
- .fini          0x0800213c        0x4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
+ .fini          0x0800213c        0x4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
                 0x0800213c                _fini
- .fini          0x08002140        0x8 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
+ .fini          0x08002140        0x8 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
                 0x08002148                . = ALIGN (0x4)
                 0x08002148                _etext = .
 
@@ -17989,10 +17989,10 @@ LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.2016
  .v4_bx         0x08002148        0x0 linker stubs
 
 .iplt           0x08002148        0x0
- .iplt          0x08002148        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+ .iplt          0x08002148        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
 
 .rel.dyn        0x08002148        0x0
- .rel.iplt      0x08002148        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+ .rel.iplt      0x08002148        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
@@ -18011,15 +18011,15 @@ LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.2016
                 0x08002148                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  .init_array.00000
-                0x08002148        0x4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__call_atexit.o)
+                0x08002148        0x4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x0800214c        0x4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+ .init_array    0x0800214c        0x4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
                 0x08002150                PROVIDE (__init_array_end, .)
 
 .fini_array     0x08002150        0x4
                 0x08002150                PROVIDE (__fini_array_start, .)
  *(.fini_array*)
- .fini_array    0x08002150        0x4 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+ .fini_array    0x08002150        0x4 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
  *(SORT(.fini_array.*))
                 0x08002154                PROVIDE (__fini_array_end, .)
                 0x08002154                _sidata = .
@@ -18037,29 +18037,29 @@ LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.2016
                 0x2000001c                SystemCoreClock
  *(.data*)
  .data.impure_data
-                0x20000020      0x428 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+                0x20000020      0x428 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
                 0x20000448                . = ALIGN (0x4)
                 0x20000448                _edata = .
 
 .jcr            0x20000448        0x0 load address 0x0800259c
- .jcr           0x20000448        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+ .jcr           0x20000448        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
 
 .tm_clone_table
                 0x20000448        0x0 load address 0x0800259c
  .tm_clone_table
-                0x20000448        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+                0x20000448        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
  .tm_clone_table
-                0x20000448        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
+                0x20000448        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
 
 .igot.plt       0x20000448        0x0 load address 0x0800259c
- .igot.plt      0x20000448        0x0 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+ .igot.plt      0x20000448        0x0 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
                 0x20000448                . = ALIGN (0x4)
 
 .bss            0x20000448       0x7c load address 0x0800259c
                 0x20000448                _sbss = .
                 0x20000448                __bss_start__ = _sbss
  *(.bss)
- .bss           0x20000448       0x1c c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+ .bss           0x20000448       0x1c /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
  .bss           0x20000464        0x4 src/main.o
                 0x20000464                uhPrescalerValue
  *(.bss*)
@@ -18100,9 +18100,9 @@ LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.2016
                 0x00000000       0x30
  *(.ARM.attributes)
  .ARM.attributes
-                0x00000000       0x22 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
+                0x00000000       0x22 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crti.o
  .ARM.attributes
-                0x00000022       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
+                0x00000022       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtbegin.o
  .ARM.attributes
                 0x00000056       0x39 HAL_Driver/Src/stm32f4xx_hal.o
  .ARM.attributes
@@ -18132,24 +18132,24 @@ LOAD c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.2016
  .ARM.attributes
                 0x0000033b       0x21 startup/startup_stm32f407xx.o
  .ARM.attributes
-                0x0000035c       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-impure.o)
+                0x0000035c       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
  .ARM.attributes
-                0x00000390       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-init.o)
+                0x00000390       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
  .ARM.attributes
-                0x000003c4       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__call_atexit.o)
+                0x000003c4       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
  .ARM.attributes
-                0x000003f8       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atexit.o)
+                0x000003f8       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
  .ARM.attributes
-                0x0000042c       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-fini.o)
+                0x0000042c       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
  .ARM.attributes
-                0x00000460       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__atexit.o)
+                0x00000460       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
  .ARM.attributes
-                0x00000494       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
+                0x00000494       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtend.o
  .ARM.attributes
-                0x000004c8       0x22 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
+                0x000004c8       0x22 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/armv7e-m/fpu/crtn.o
 OUTPUT(PWM_STM32F4_Discovery.elf elf32-littlearm)
 
-.debug_info     0x00000000     0x9176
+.debug_info     0x00000000     0x91a3
  .debug_info    0x00000000      0x849 HAL_Driver/Src/stm32f4xx_hal.o
  .debug_info    0x00000849      0xd0b HAL_Driver/Src/stm32f4xx_hal_cortex.o
  .debug_info    0x00001554      0x70f HAL_Driver/Src/stm32f4xx_hal_gpio.o
@@ -18163,7 +18163,7 @@ OUTPUT(PWM_STM32F4_Discovery.elf elf32-littlearm)
  .debug_info    0x0000827c      0x8a5 src/stm32f4xx_hal_msp.o
  .debug_info    0x00008b21      0x145 src/stm32f4xx_it.o
  .debug_info    0x00008c66      0x4ab src/system_stm32f4xx.o
- .debug_info    0x00009111       0x65 startup/startup_stm32f407xx.o
+ .debug_info    0x00009111       0x92 startup/startup_stm32f407xx.o
 
 .debug_abbrev   0x00000000     0x1652
  .debug_abbrev  0x00000000      0x1fe HAL_Driver/Src/stm32f4xx_hal.o
@@ -18334,49 +18334,49 @@ OUTPUT(PWM_STM32F4_Discovery.elf elf32-littlearm)
  .debug_macro   0x00019538      0x48c src/stm32f4xx_it.o
  .debug_macro   0x000199c4      0x470 src/system_stm32f4xx.o
 
-.debug_line     0x00000000     0xa828
- .debug_line    0x00000000      0xb95 HAL_Driver/Src/stm32f4xx_hal.o
- .debug_line    0x00000b95      0xcc6 HAL_Driver/Src/stm32f4xx_hal_cortex.o
- .debug_line    0x0000185b      0xbe5 HAL_Driver/Src/stm32f4xx_hal_gpio.o
- .debug_line    0x00002440      0xa38 HAL_Driver/Src/stm32f4xx_hal_msp_template.o
- .debug_line    0x00002e78      0xce6 HAL_Driver/Src/stm32f4xx_hal_rcc.o
- .debug_line    0x00003b5e     0x1b86 HAL_Driver/Src/stm32f4xx_hal_tim.o
- .debug_line    0x000056e4      0xfb1 HAL_Driver/Src/stm32f4xx_hal_tim_ex.o
- .debug_line    0x00006695      0xa6d HAL_Driver/Src/stm32f4xx_hal_timebase_tim_template.o
- .debug_line    0x00007102      0xc63 Utilities/STM32F4-Discovery/stm32f4_discovery.o
- .debug_line    0x00007d65      0xab0 src/main.o
- .debug_line    0x00008815      0xa6c src/stm32f4xx_hal_msp.o
- .debug_line    0x00009281      0xb0a src/stm32f4xx_it.o
- .debug_line    0x00009d8b      0xa1e src/system_stm32f4xx.o
- .debug_line    0x0000a7a9       0x7f startup/startup_stm32f407xx.o
+.debug_line     0x00000000     0xbebe
+ .debug_line    0x00000000      0xd3d HAL_Driver/Src/stm32f4xx_hal.o
+ .debug_line    0x00000d3d      0xe6e HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .debug_line    0x00001bab      0xd8d HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .debug_line    0x00002938      0xbe0 HAL_Driver/Src/stm32f4xx_hal_msp_template.o
+ .debug_line    0x00003518      0xe8e HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .debug_line    0x000043a6     0x1d2e HAL_Driver/Src/stm32f4xx_hal_tim.o
+ .debug_line    0x000060d4     0x1159 HAL_Driver/Src/stm32f4xx_hal_tim_ex.o
+ .debug_line    0x0000722d      0xc15 HAL_Driver/Src/stm32f4xx_hal_timebase_tim_template.o
+ .debug_line    0x00007e42      0xe0b Utilities/STM32F4-Discovery/stm32f4_discovery.o
+ .debug_line    0x00008c4d      0xcb2 src/main.o
+ .debug_line    0x000098ff      0xc6e src/stm32f4xx_hal_msp.o
+ .debug_line    0x0000a56d      0xd0c src/stm32f4xx_it.o
+ .debug_line    0x0000b279      0xbc6 src/system_stm32f4xx.o
+ .debug_line    0x0000be3f       0x7f startup/startup_stm32f407xx.o
 
-.debug_str      0x00000000    0xa7c8e
- .debug_str     0x00000000    0xa434b HAL_Driver/Src/stm32f4xx_hal.o
-                              0xa4721 (size before relaxing)
- .debug_str     0x000a434b      0x3b4 HAL_Driver/Src/stm32f4xx_hal_cortex.o
-                              0xa45d5 (size before relaxing)
- .debug_str     0x000a46ff      0x2da HAL_Driver/Src/stm32f4xx_hal_gpio.o
-                              0xa3ffa (size before relaxing)
- .debug_str     0x000a49d9       0x51 HAL_Driver/Src/stm32f4xx_hal_msp_template.o
-                              0xa3bf2 (size before relaxing)
- .debug_str     0x000a4a2a      0x3a0 HAL_Driver/Src/stm32f4xx_hal_rcc.o
-                              0xa4171 (size before relaxing)
- .debug_str     0x000a4dca     0x10b0 HAL_Driver/Src/stm32f4xx_hal_tim.o
-                              0xa4d9c (size before relaxing)
- .debug_str     0x000a5e7a      0x510 HAL_Driver/Src/stm32f4xx_hal_tim_ex.o
-                              0xa464f (size before relaxing)
- .debug_str     0x000a638a       0x8c HAL_Driver/Src/stm32f4xx_hal_timebase_tim_template.o
-                              0xa477f (size before relaxing)
- .debug_str     0x000a6416     0x142f Utilities/STM32F4-Discovery/stm32f4_discovery.o
-                              0xa599e (size before relaxing)
- .debug_str     0x000a7845      0x31c src/main.o
-                              0xa527c (size before relaxing)
- .debug_str     0x000a7b61       0x1b src/stm32f4xx_hal_msp.o
-                              0xa501f (size before relaxing)
- .debug_str     0x000a7b7c       0xb8 src/stm32f4xx_it.o
-                              0xa4a90 (size before relaxing)
- .debug_str     0x000a7c34       0x5a src/system_stm32f4xx.o
-                              0xa3d86 (size before relaxing)
+.debug_str      0x00000000    0xa7cbb
+ .debug_str     0x00000000    0xa4378 HAL_Driver/Src/stm32f4xx_hal.o
+                              0xa474e (size before relaxing)
+ .debug_str     0x000a4378      0x3b4 HAL_Driver/Src/stm32f4xx_hal_cortex.o
+                              0xa4602 (size before relaxing)
+ .debug_str     0x000a472c      0x2da HAL_Driver/Src/stm32f4xx_hal_gpio.o
+                              0xa4027 (size before relaxing)
+ .debug_str     0x000a4a06       0x51 HAL_Driver/Src/stm32f4xx_hal_msp_template.o
+                              0xa3c1f (size before relaxing)
+ .debug_str     0x000a4a57      0x3a0 HAL_Driver/Src/stm32f4xx_hal_rcc.o
+                              0xa419e (size before relaxing)
+ .debug_str     0x000a4df7     0x10b0 HAL_Driver/Src/stm32f4xx_hal_tim.o
+                              0xa4dc9 (size before relaxing)
+ .debug_str     0x000a5ea7      0x510 HAL_Driver/Src/stm32f4xx_hal_tim_ex.o
+                              0xa467c (size before relaxing)
+ .debug_str     0x000a63b7       0x8c HAL_Driver/Src/stm32f4xx_hal_timebase_tim_template.o
+                              0xa47ac (size before relaxing)
+ .debug_str     0x000a6443     0x142f Utilities/STM32F4-Discovery/stm32f4_discovery.o
+                              0xa59cb (size before relaxing)
+ .debug_str     0x000a7872      0x31c src/main.o
+                              0xa52a9 (size before relaxing)
+ .debug_str     0x000a7b8e       0x1b src/stm32f4xx_hal_msp.o
+                              0xa504c (size before relaxing)
+ .debug_str     0x000a7ba9       0xb8 src/stm32f4xx_it.o
+                              0xa4abd (size before relaxing)
+ .debug_str     0x000a7c61       0x5a src/system_stm32f4xx.o
+                              0xa3db3 (size before relaxing)
 
 .comment        0x00000000       0x6e
  .comment       0x00000000       0x6e HAL_Driver/Src/stm32f4xx_hal.o
@@ -18408,8 +18408,8 @@ OUTPUT(PWM_STM32F4_Discovery.elf elf32-littlearm)
  .debug_frame   0x00002484       0x34 src/stm32f4xx_hal_msp.o
  .debug_frame   0x000024b8      0x10c src/stm32f4xx_it.o
  .debug_frame   0x000025c4       0x58 src/system_stm32f4xx.o
- .debug_frame   0x0000261c       0x2c c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-init.o)
- .debug_frame   0x00002648       0x50 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__call_atexit.o)
- .debug_frame   0x00002698       0x20 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-atexit.o)
- .debug_frame   0x000026b8       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-fini.o)
- .debug_frame   0x000026ec       0x34 c:/stm32/eclipse/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.7.0.201602121829/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000261c       0x2c /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .debug_frame   0x00002648       0x50 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00002698       0x20 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .debug_frame   0x000026b8       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .debug_frame   0x000026ec       0x34 /home/colten/.eclipse/org.eclipse.platform_4.5.2_155965261_linux_gtk_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.linux64_1.7.0.201602291252/tools/compiler/bin/../lib/gcc/arm-none-eabi/5.2.1/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
