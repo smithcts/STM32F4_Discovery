@@ -68,7 +68,7 @@ all: PWM_STM32F4_Discovery.elf
 PWM_STM32F4_Discovery.elf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: MCU G++ Linker'
-	arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -T"F:\PWM_STM32F4_Discovery\LinkerScript.ld" -Wl,-Map=output.map -Wl,--gc-sections -fno-exceptions -fno-rtti -lm -o "PWM_STM32F4_Discovery.elf" @"objects.list" $(USER_OBJS) $(LIBS)
+	arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -T"C:\Users\smith\Documents\GitHub\STM32F4_Discovery\PWM_STM32F4_Discovery\LinkerScript.ld" -Wl,-Map=output.map -Wl,--gc-sections -fno-exceptions -fno-rtti -lm -o "PWM_STM32F4_Discovery.elf" @"objects.list" $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 	$(MAKE) --no-print-directory post-build

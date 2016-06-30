@@ -68,7 +68,7 @@ all: Multiplexer_STM32F4_Test.elf
 Multiplexer_STM32F4_Test.elf: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: MCU G++ Linker'
-	arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -T"F:\Multiplexer_STM32F4_Test\LinkerScript.ld" -Wl,-Map=output.map -Wl,--gc-sections -fno-exceptions -fno-rtti -lm -o "Multiplexer_STM32F4_Test.elf" @"objects.list" $(USER_OBJS) $(LIBS)
+	arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -T"C:\Users\smith\Documents\GitHub\STM32F4_Discovery\Multiplexer_STM32F4_Test\LinkerScript.ld" -Wl,-Map=output.map -Wl,--gc-sections -fno-exceptions -fno-rtti -lm -o "Multiplexer_STM32F4_Test.elf" @"objects.list" $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 	$(MAKE) --no-print-directory post-build

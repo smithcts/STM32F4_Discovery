@@ -49,23 +49,23 @@
 /* User can use this section to tailor TIMx instance used and associated
    resources */
 /* Definition for TIMx clock resources */
-#define TIMx                           TIM8
-#define TIMx_CLK_ENABLE()              __HAL_RCC_TIM8_CLK_ENABLE()
+#define TIMx                           TIM1
+#define TIMx_CLK_ENABLE()              __HAL_RCC_TIM1_CLK_ENABLE()
 
 /* Definition for TIMx Channel Pins */
-#define TIMx_CHANNEL_GPIO_PORT()       __HAL_RCC_GPIOC_CLK_ENABLE()
-#define TIMx_GPIO_PORT_CHANNEL1        GPIOC
-#define TIMx_GPIO_PORT_CHANNEL2        GPIOC
-#define TIMx_GPIO_PORT_CHANNEL3        GPIOC
-#define TIMx_GPIO_PORT_CHANNEL4        GPIOC
-#define TIMx_GPIO_PIN_CHANNEL1         GPIO_PIN_6
-#define TIMx_GPIO_PIN_CHANNEL2         GPIO_PIN_7
-#define TIMx_GPIO_PIN_CHANNEL3         GPIO_PIN_8
-#define TIMx_GPIO_PIN_CHANNEL4         GPIO_PIN_9
-#define TIMx_GPIO_AF_CHANNEL1          GPIO_AF3_TIM8
-#define TIMx_GPIO_AF_CHANNEL2          GPIO_AF3_TIM8
-#define TIMx_GPIO_AF_CHANNEL3          GPIO_AF3_TIM8
-#define TIMx_GPIO_AF_CHANNEL4          GPIO_AF3_TIM8
+#define TIMx_CHANNEL_GPIO_PORT()       __HAL_RCC_GPIOE_CLK_ENABLE()
+#define TIMx_GPIO_PORT_CHANNEL1        GPIOE
+#define TIMx_GPIO_PORT_CHANNEL2        GPIOE
+#define TIMx_GPIO_PORT_CHANNEL3        GPIOE
+#define TIMx_GPIO_PORT_CHANNEL4        GPIOE
+#define TIMx_GPIO_PIN_CHANNEL1         GPIO_PIN_9
+#define TIMx_GPIO_PIN_CHANNEL2         GPIO_PIN_11
+#define TIMx_GPIO_PIN_CHANNEL3         GPIO_PIN_13
+#define TIMx_GPIO_PIN_CHANNEL4         GPIO_PIN_14
+#define TIMx_GPIO_AF_CHANNEL1          GPIO_AF1_TIM1
+#define TIMx_GPIO_AF_CHANNEL2          GPIO_AF1_TIM1
+#define TIMx_GPIO_AF_CHANNEL3          GPIO_AF1_TIM1
+#define TIMx_GPIO_AF_CHANNEL4          GPIO_AF1_TIM1
 /* Exported macro ------------------------------------------------------------*/
 /* Exported functions ------------------------------------------------------- */
 

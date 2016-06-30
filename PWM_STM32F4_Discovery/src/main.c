@@ -48,7 +48,7 @@
   */
 
 /* Private typedef -----------------------------------------------------------*/
-#define  PERIOD_VALUE       (uint32_t)(666 - 1)  /* Period Value  */
+#define  PERIOD_VALUE       (uint32_t)(100 - 1)  /* Period Value  */
 #define  PULSE1_VALUE       (uint32_t)(PERIOD_VALUE/2)        /* Capture Compare 1 Value  */
 #define  PULSE2_VALUE       (uint32_t)(PERIOD_VALUE*37.5/100) /* Capture Compare 2 Value  */
 #define  PULSE3_VALUE       (uint32_t)(PERIOD_VALUE/4)        /* Capture Compare 3 Value  */
@@ -67,7 +67,7 @@ TIM_OC_InitTypeDef sConfig;
 uint32_t uhPrescalerValue = 0;
 
 /* Private function prototypes -----------------------------------------------*/
-void SystemClock_Config(void);
+static void SystemClock_Config(void);
 static void Error_Handler(void);
 
 /* Private functions ---------------------------------------------------------*/
@@ -139,10 +139,10 @@ int main(void)
        + ClockDivision = 0
        + Counter direction = Up
   */
-  TimHandle.Instance = TIM3;
+  TimHandle.Instance = TIMx;
 
-  TimHandle.Init.Prescaler         = 49;
-  TimHandle.Init.Period            = 99;
+  TimHandle.Init.Prescaler         = uhPrescalerValue;
+  TimHandle.Init.Period            = PERIOD_VALUE;
   TimHandle.Init.ClockDivision     = 0;
   TimHandle.Init.CounterMode       = TIM_COUNTERMODE_UP;
   TimHandle.Init.RepetitionCounter = 0;
@@ -163,13 +163,36 @@ int main(void)
   sConfig.OCIdleState  = TIM_OCIDLESTATE_RESET;
 
   /* Set the pulse value for channel 1 */
-  sConfig.Pulse = 75;
+  sConfig.Pulse = PULSE1_VALUE;
   if (HAL_TIM_PWM_ConfigChannel(&TimHandle, &sConfig, TIM_CHANNEL_1) != HAL_OK)
   {
     /* Configuration Error */
     Error_Handler();
   }
 
+  /* Set the pulse value for channel 2 */
+  sConfig.Pulse = PULSE2_VALUE;
+  if (HAL_TIM_PWM_ConfigChannel(&TimHandle, &sConfig, TIM_CHANNEL_2) != HAL_OK)
+  {
+    /* Configuration Error */
+    Error_Handler();
+  }
+
+  /* Set the pulse value for channel 3 */
+  sConfig.Pulse = PULSE3_VALUE;
+  if (HAL_TIM_PWM_ConfigChannel(&TimHandle, &sConfig, TIM_CHANNEL_3) != HAL_OK)
+  {
+    /* Configuration Error */
+    Error_Handler();
+  }
+
+  /* Set the pulse value for channel 4 */
+  sConfig.Pulse = PULSE4_VALUE;
+  if (HAL_TIM_PWM_ConfigChannel(&TimHandle, &sConfig, TIM_CHANNEL_4) != HAL_OK)
+  {
+    /* Configuration Error */
+    Error_Handler();
+  }
 
   /*##-3- Start PWM signals generation #######################################*/
   /* Start channel 1 */
@@ -178,7 +201,24 @@ int main(void)
     /* PWM Generation Error */
     Error_Handler();
   }
-
+  /* Start channel 2 */
+  if (HAL_TIM_PWM_Start(&TimHandle, TIM_CHANNEL_2) != HAL_OK)
+  {
+    /* PWM Generation Error */
+    Error_Handler();
+  }
+  /* Start channel 3 */
+  if (HAL_TIM_PWM_Start(&TimHandle, TIM_CHANNEL_3) != HAL_OK)
+  {
+    /* PWM generation Error */
+    Error_Handler();
+  }
+  /* Start channel 4 */
+  if (HAL_TIM_PWM_Start(&TimHandle, TIM_CHANNEL_4) != HAL_OK)
+  {
+    /* PWM generation Error */
+    Error_Handler();
+  }
 
   while (1)
   {
@@ -220,7 +260,7 @@ static void Error_Handler(void)
   * @param  None
   * @retval None
   */
-void SystemClock_Config(void)
+static void SystemClock_Config(void)
 {
   RCC_ClkInitTypeDef RCC_ClkInitStruct;
   RCC_OscInitTypeDef RCC_OscInitStruct;
@@ -259,7 +299,6 @@ void SystemClock_Config(void)
     __HAL_FLASH_PREFETCH_BUFFER_ENABLE();
   }
 }
-
 
 #ifdef  USE_FULL_ASSERT
 
